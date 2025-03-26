@@ -115,8 +115,8 @@ import random
 keyboard = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="📞 Contact", url="https://t.me/Nikhil_saini_khe"),
-            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/+3k-1zcJxINYwNGZl"),
+            InlineKeyboardButton(text="📞 Contact", url="https://t.me/+tdQFsyg-bUUwMTcx"),
+            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/+tdQFsyg-bUUwMTcx"),
         ],
     ]
 )
@@ -125,8 +125,8 @@ keyboard = InlineKeyboardMarkup(
 Busy = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="📞 Contact", url="https://t.me/Nikhil_saini_khe"),
-            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/+3k-1zcJxINYwNGZl"),
+            InlineKeyboardButton(text="📞 Contact", url="https://t.me/+tdQFsyg-bUUwMTcx"),
+            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/+tdQFsyg-bUUwMTcx"),
         ],
     ]
 )
@@ -448,7 +448,7 @@ async def txt_handler(bot: Client, m: Message):
     # Default credit message
     credit = "️🇳‌🇮‌🇰‌🇭‌🇮‌🇱‌ 🕊️⁪⁬⁮⁮⁮"
     if raw_text3 == '/admin':
-        CR = '🇳‌🇮‌🇰‌🇭‌🇮‌🇱‌ 🕊️'
+        CR = 'star 🕊️'
     elif raw_text3:
         CR = raw_text3
     else:
